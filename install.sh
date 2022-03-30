@@ -8,14 +8,14 @@ cyan='\033[1;96m'
 
 echo "$yellow
 =================================================
-Created By Aitzaz Imtiaz with ♥️ to Harley Quinn
+Created By Aitzaz Imtiaz with ♥️ to all swag boys
 ================================================="
 echo ""
 echo ""
 sleep 5
 echo "$green
 ====================================================
-Installing a villian OS. No goodness, only Evil here
+Installing a funny OS. No goodness, only fun here
 ===================================================="
 sleep 4
 
@@ -30,7 +30,7 @@ gem install lolcat
 sleep 2
 echo "green
 =====================================
-Now putting a villian in your Termux
+Now putting a OS in your Termux
 =====================================" | lolcat
 sleep 2
 echo ""
@@ -45,12 +45,13 @@ cp bash.bashrc $PREFIX/etc
 cp login_script.py $PREFIX/etc
 echo "green
 =============================
-Quinn on your phone right now
+Boy on your phone right now
 =============================" | lolcat
+sleep 2
 clear
 echo "$yellow
 =================================
-Created By Harley Quinn fan!
+Created By Ansel Elgort fan!
 =================================" | lolcat
 echo "$yellow 
      Let's start necessary evil
