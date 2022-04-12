@@ -28,6 +28,9 @@ apt install python -y
 apt install ruby -y
 gem install lolcat
 sleep 2
+cd packages
+make install
+cd
 echo "green
 =====================================
 Now putting a OS in your Termux
