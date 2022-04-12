@@ -57,6 +57,6 @@ sleep 1
 echo ''
 echo 'An OS by Aitzaz Imtiaz' | lolcat
 sleep 2
-echo 'Type help to get commands' | lolcat
+echo 'Type helpboy to get commands' | lolcat
 sleep 0.5
 date | lolcat
