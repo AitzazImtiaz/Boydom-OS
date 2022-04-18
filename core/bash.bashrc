@@ -43,6 +43,9 @@ sleep 0.5
 echo -ne '███████████████████\r'
 
 echo 'A hardwork by Aitzaz Imtiaz, Boydom OS' | lolcat
+espeak 'Hello sir! Boydom Operating System loaded'
+sleep 2
+espeak 'Sir, I am launching the interface!'
 sleep 6
 clear
 echo '
