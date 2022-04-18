@@ -62,4 +62,4 @@ sleep 2
 echo 'Type helpboy to get commands' | lolcat
 sleep 0.5
 date | lolcat
-espeak 'Sir type helpboy for help commands'
+espeak 'Sir lets start with a boy operating system.'
