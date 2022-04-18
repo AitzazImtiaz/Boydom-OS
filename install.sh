@@ -33,6 +33,7 @@ sleep 2
 cd packages
 make install
 cd
+cd Boydom-OS
 echo "green
 =====================================
 Now putting a OS in your Termux
@@ -44,10 +45,9 @@ echo "
 ======================
     Initializing...
 ======================" | lolcat
-cd core
 rm $PREFIX/etc/bash.bashrc
+cd core
 cp bash.bashrc $PREFIX/etc
-cd
 echo "green
 =============================
 Boy on your phone right now
