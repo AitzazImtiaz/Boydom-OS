@@ -44,8 +44,8 @@ echo "
 ======================
     Initializing...
 ======================" | lolcat
-rm $PREFIX/etc/bash.bashrc
 cd core
+rm $PREFIX/etc/bash.bashrc
 cp bash.bashrc $PREFIX/etc
 cd
 echo "green
