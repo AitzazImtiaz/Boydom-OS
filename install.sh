@@ -28,6 +28,7 @@ apt install python -y
 apt install ruby -y
 gem install lolcat
 apt install espeak 
+apt install make
 sleep 2
 cd packages
 make install
@@ -46,7 +47,7 @@ echo "
 rm $PREFIX/etc/bash.bashrc
 cd core
 cp bash.bashrc $PREFIX/etc
-cp login_script.py $PREFIX/etc
+cd
 echo "green
 =============================
 Boy on your phone right now
