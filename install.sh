@@ -27,7 +27,7 @@ apt update
 apt install python -y
 apt install ruby -y
 gem install lolcat
-apt install 
+apt install espeak 
 sleep 2
 cd packages
 make install
