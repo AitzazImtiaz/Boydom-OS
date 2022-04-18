@@ -31,7 +31,7 @@ apt install espeak
 apt install make
 sleep 2
 cd packages
-make install
+bash installation.sh
 cd
 cd Boydom-OS
 echo "green
