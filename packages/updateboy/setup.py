@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name = "badboy",
+    name = "updateboy",
     version = "0.1.0",
     description = "A evil version for evil people",
     author = "AitzazImtiaz",
