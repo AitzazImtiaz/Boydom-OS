@@ -6,6 +6,7 @@ def main():
   os.system("espeak 'Running update, Boydom update patch running!'")
   print("Updating and reinstalling Boydom.")
   time.sleep(1)
+  os.system("rm Boydom-OS -r")
   os.system("git clone https://github.com/AitzazImtiaz/Boydom-OS")
   os.system("cd Boydom-OS")
   os.system("chmod +x install.sh")
