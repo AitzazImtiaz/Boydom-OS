@@ -5,5 +5,4 @@ cd Boydom-OS
 chmod +x install.sh
 ./install.sh
 echo "Open your termux again' | lolcat
-sleep 4
-exit
+sleep 2
