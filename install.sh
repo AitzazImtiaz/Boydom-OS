@@ -6,20 +6,20 @@ white='\033[1;97m'
 cyan='\033[1;96m'
 
 
-echo "$yellow
+echo "
 =================================================
 Created By Aitzaz Imtiaz with ♥️ to all swag boys
 ================================================="
 echo ""
 echo ""
 sleep 5
-echo "$green
+echo "
 ====================================================
 Installing a funny OS. No goodness, only fun here
 ===================================================="
 sleep 4
 
-echo "$yellow 
+echo "
 ================================
     Installing packages
 ================================"
@@ -34,7 +34,7 @@ cd packages
 bash installation.sh
 cd
 cd Boydom-OS
-echo "green
+echo "
 =====================================
 Now putting a OS in your Termux
 =====================================" | lolcat
@@ -48,26 +48,27 @@ echo "
 rm $PREFIX/etc/bash.bashrc
 cd core
 cp bash.bashrc $PREFIX/etc
-echo "green
+echo "
 =============================
 Boy on your phone right now
 =============================" | lolcat
 sleep 2
 clear
-echo "$yellow
+echo "
 =================================
 Created By Ansel Elgort fan!
 =================================" | lolcat
-echo "$yellow 
+echo "
      Let's start necessary evil
 =================================" | lolcat
-echo "$yellow 
+echo "
      github.com/AitzazImtiaz
 =================================" | lolcat
 echo ""
-echo "$green
+echo "
 ======================================
   Now type 'exit' & restart Termux
 ======================================" | lolcat
 echo ""
-echo "$white"
+echo ""
+
