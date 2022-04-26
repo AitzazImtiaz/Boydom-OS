@@ -4,8 +4,10 @@ def main():
   os.system("espeak 'Helpboy loaded, Here are Built In commands'")
   print(Fore.GREEN+"binboy", end=" ")
   print(Fore.WHITE+"Print Binary colors")
-  print(Fore.GREEN+"updateboy", end=" ")
+  print(Fore.GREEN+"updateboy",end=" ")
   print(Fore.WHITE+"Update Boydom to a new version")
-  print(Fore.GREEN+"colorboy", end=" ")
+  print(Fore.GREEN+"colorboy",end=" ")
   print (Fore.WHITE+"Print all console colors in a pattern")
+  print(Fore.GREEN+"Bad-Boy",end=" ")
+  print(Fore.WHITE+"A hacking framework prebuilt")
   
