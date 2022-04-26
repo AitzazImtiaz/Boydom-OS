@@ -9,5 +9,7 @@ make install
 cd
 cd Boydom-OS/packages/binboy
 make install
+cd Boydom-OS/packages/Bad-Boy
+make install
 cd
 cd Boydom-OS
