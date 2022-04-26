@@ -13,3 +13,11 @@ For first time users:
     exit
     wait for system to run then
     Type helpboy to get commands
+
+Please star my repo and if possible feel happy to follow me, I got no followers :(
+
+Report any issues and run on termux, I am running this on termux and to me it works perfectly.
+
+# Updates
+* Added a Voice start!
+* Added command line tools
